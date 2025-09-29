@@ -50,6 +50,10 @@
 
 <div align="center">
 
+
+![SYNAPSE overview](./img.png)
+![SYNAPSE graph](./img2.png)
+
 ## **NAVIGATION**
 
 | [Quick Start](#quick-start) | [Core Features](#core-features) | [Installation](#installation) | [Architecture](#system-architecture) | [Usage](#usage-examples) | [Research](#research-capabilities) | [Visualizations](#visualization-engine) | [Performance](#performance-benchmarks) | [API](#api-reference) | [Contributing](#contributing) |
