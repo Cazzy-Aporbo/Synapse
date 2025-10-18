@@ -1,0 +1,22 @@
+agents:
+- name: Researcher
+  model: local-transformer
+  temperature: 0.2
+  weight: 0.5
+  system: Extract factual evidence and cite sources.
+  max_tokens: 512
+- name: Critic
+  model: gpt-4o
+  temperature: 0.3
+  weight: 0.3
+  system: Challenge assumptions and identify gaps.
+  max_tokens: 384
+- name: Synthesizer
+  model: claude-3.5
+  temperature: 0.5
+  weight: 0.2
+  system: Merge perspectives into a clear, actionable brief.
+  max_tokens: 512
+consensus:
+  method: weighted
+  normalize: true

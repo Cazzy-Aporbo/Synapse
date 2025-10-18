@@ -1,0 +1,81 @@
+{
+  "nodes": [
+    {
+      "id": "N1",
+      "title": "LLM Uncertainty Calibration",
+      "text": "Techniques for calibrating probabilities in large language models.",
+      "tags": [
+        "llm",
+        "calibration",
+        "uncertainty"
+      ]
+    },
+    {
+      "id": "N2",
+      "title": "Bias Mitigation in Clinical AI",
+      "text": "Auditing subgroup performance and mitigating false negatives in health models.",
+      "tags": [
+        "health",
+        "bias",
+        "fairness"
+      ]
+    },
+    {
+      "id": "N3",
+      "title": "Retrieval-Augmented Generation",
+      "text": "RAG pipelines with vector search and knowledge graphs.",
+      "tags": [
+        "rag",
+        "vector",
+        "graphs"
+      ]
+    },
+    {
+      "id": "N4",
+      "title": "Power-law Dynamics in Media",
+      "text": "Heavy tails and concentration effects in digital diffusion.",
+      "tags": [
+        "powerlaw",
+        "media",
+        "networks"
+      ]
+    },
+    {
+      "id": "N5",
+      "title": "Evaluation with QAEvalChain",
+      "text": "LLM evaluation via question-answer consistency.",
+      "tags": [
+        "evaluation",
+        "langchain",
+        "qa"
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source": "N1",
+      "target": "N5",
+      "weight": 0.68
+    },
+    {
+      "source": "N3",
+      "target": "N1",
+      "weight": 0.42
+    },
+    {
+      "source": "N2",
+      "target": "N1",
+      "weight": 0.35
+    },
+    {
+      "source": "N3",
+      "target": "N5",
+      "weight": 0.55
+    },
+    {
+      "source": "N4",
+      "target": "N3",
+      "weight": 0.31
+    }
+  ]
+}
