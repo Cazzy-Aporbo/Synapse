@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Research-Academic-3B82F6?style=for-the-badge&logo=googlecholar&logoColor=white&labelColor=2563EB&color=3B82F6" alt="Research"/>
 </p>
 
+
 <!-- ANIMATED STATUS INDICATORS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Build-Passing-00FF00?style=flat-square&logo=githubactions&logoColor=white&labelColor=22C55E&color=00FF00" alt="Build"/>
@@ -31,13 +32,13 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃   ███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ███████╗███████╗                      ┃
-┃   ██╔════╝╚██╗ ██╔╝████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝                      ┃
-┃   ███████╗ ╚████╔╝ ██╔██╗ ██║███████║██████╔╝███████╗█████╗                        ┃
-┃   ╚════██║  ╚██╔╝  ██║╚██╗██║██╔══██║██╔═══╝ ╚════██║██╔══╝                        ┃
+┃   ███████╗██╗   ██╗███╗   ██╗ █████╗ ██████╗ ███████╗███████╗                       ┃
+┃   ██╔════╝╚██╗ ██╔╝████╗  ██║██╔══██╗██╔══██╗██╔════╝██╔════╝                       ┃
+┃   ███████╗ ╚████╔╝ ██╔██╗ ██║███████║██████╔╝███████╗█████╗                         ┃
+┃   ╚════██║  ╚██╔╝  ██║╚██╗██║██╔══██║██╔═══╝ ╚════██║██╔══╝                         ┃
 ┃   ███████║   ██║   ██║ ╚████║██║  ██║██║     ███████║███████╗                       ┃
-┃   ╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝                      ┃
-┃                                                                                      ┃
+┃   ╚══════╝   ╚═╝   ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝     ╚══════╝╚══════╝                       ┃
+┃                                                                                     ┃
 ┃   Advanced Multi-AI Research & Cognitive Augmentation Platform                      ┃
 ┃   Documented by Cazzy Aporbo 2025 | Open Source Initiative                          ┃
 ┃   Breakthrough Innovation in AI-Assisted Research & Ideation                        ┃
@@ -46,7 +47,11 @@
 
 </div>
 
----
+<div align="center">
+  
+**[View Synapse AI Tool →](https://htmlpreview.github.io/?https://github.com/Cazzy-Aporbo/Synapse/blob/main/synapse-ai-tool.html)**
+
+</div>
 
 <div align="center">
 
@@ -1249,10 +1254,10 @@ Special thanks to the open-source community and academic researchers whose work 
 ```
 ╔════════════════════════════════════════════════════════════════════════╗
 ║                                                                        ║
-║   SYNAPSE: Augmenting Human Intelligence Through AI Orchestration     ║
+║   SYNAPSE: Augmenting Human Intelligence Through AI Orchestration      ║
 ║                                                                        ║
-║   "The synthesis of multiple perspectives creates emergent wisdom"    ║
-║                                        - Cazzy Aporbo, 2025          ║
+║   "The synthesis of multiple perspectives creates emergent wisdom"     ║
+║                                        - Cazzy Aporbo, 2025            ║
 ║                                                                        ║
 ╚════════════════════════════════════════════════════════════════════════╝
 ```
